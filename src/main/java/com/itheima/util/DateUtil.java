@@ -20,5 +20,8 @@ public class DateUtil {
 		cal.setTime(new Date());
 		return cal.get(Calendar.YEAR);		
 	}
+	
+	
+	
 
 }
